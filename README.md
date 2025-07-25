@@ -12,7 +12,7 @@ Sistema completo de geolocalización GPS con gestión de ubicaciones, autenticac
 
 1. **Descarga solo el archivo setup.php**:
    ```bash
-   wget https://raw.githubusercontent.com/tu-usuario/sistema-gps/main/setup.php
+   wget https://raw.githubusercontent.com/Oberluss/sistema-gps/main/setup.php
    ```
 
 2. **Sube setup.php a tu servidor** y accede desde el navegador:
@@ -26,11 +26,11 @@ Sistema completo de geolocalización GPS con gestión de ubicaciones, autenticac
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/sistema-gps.git
+   git clone https://github.com/Oberluss/sistema-gps.git
    cd sistema-gps
    ```
 
-2. **Copia los archivos** de la carpeta `src/` a tu directorio web
+2. **Copia los archivos** a tu directorio web
 
 3. **Crea los directorios necesarios**:
    ```bash
@@ -289,7 +289,7 @@ wc -l users.json        # Número de usuarios
 
 ### Reportar Bugs
 
-Usa el [sistema de issues de GitHub](https://github.com/tu-usuario/sistema-gps/issues) para reportar bugs. Incluye:
+Usa el [sistema de issues de GitHub](https://github.com/Oberluss/sistema-gps/issues) para reportar bugs. Incluye:
 
 - 📱 **Dispositivo y navegador** usado
 - 🔍 **Pasos para reproducir** el problema
@@ -314,8 +314,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@example.com
+- GitHub: [@Oberluss](https://github.com/Oberluss)
+- Email: oberlus@morillo.eu
 - Web: [tu-sitio.com](https://tu-sitio.com)
 
 ## 🙏 Agradecimientos
