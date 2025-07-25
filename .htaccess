@@ -1,0 +1,11 @@
+# Archivo index predeterminado
+DirectoryIndex index.php
+
+# Proteger archivos JSON
+<FilesMatch "\.(json)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Prevenir listado de directorios
+Options -Indexes
